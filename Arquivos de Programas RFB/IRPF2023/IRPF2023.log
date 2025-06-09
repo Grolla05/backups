@@ -1,0 +1,247 @@
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+mar 17, 2023 4:13:30 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: C:\Users\felipe\.rfb\.cacheni.properties (O sistema não pode encontrar o arquivo especificado)
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+cmdDir=C:\Arquivos de Programas RFB\IRPF2023
+cmd=[C:\Arquivos de Programas RFB\IRPF2023\jre\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2023\pgd-updater.jar, -U, -W, -appName, IRPF2023, -tempDir, C:\Users\felipe\.irpf\tmp_IRPF2023, -destDir, C:\Arquivos de Programas RFB\IRPF2023, -zipFile, IRPF2023-1.1_update_1.2.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2023\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2023\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2023\IRPF2023.exe]
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+abr 14, 2023 4:48:47 PM serpro.receitanet.k c
+INFORMAÇÕES: Exceção registrada. (O código de erro informado pelo servidor do Receitanet é 5115.)[[]]
+serpro.receitanet.T: ERRO! Validador IRPF 2023
+A TRANSMISSÃO NÃO FOI CONCLUÍDA.
+C18 - O endereço informado na declaração CPF 155.181.858-20 não confere com o constante no cadastro da Receita Federal. Verifique o endereço digitado, inclusive o CEP. Se houve alteração de residência marque "Sim" na opção alteração de dados cadastrais e entregue a declaração. Para mais detalhes, <a href="https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/erros/c18"><b>Clique Aqui</b></a>.
+	at serpro.receitanet.al.a(Unknown Source)
+	at serpro.receitanet.ControleReceitanet.a(Unknown Source)
+	at serpro.receitanet.ControleReceitanet.enviarDeclaracao(Unknown Source)
+	at serpro.receitanet.ControleReceitanet.enviarDeclaracao(Unknown Source)
+	at serpro.receitanet.ControleReceitanet.enviarDeclaracao(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.transmitirDeclaracao(PainelGravarTransmitir.java:728)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir$ExecutarGravarIdDeclaracao.gravar(PainelGravarTransmitir.java:575)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.transmitir(PainelGravarTransmitir.java:291)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(PainelGravarTransmitir.java:111)
+	at serpro.ppgd.app.acoes.TransmitirDeclaracaoAction.executarAcao(TransmitirDeclaracaoAction.java:34)
+	at serpro.ppgd.app.acoes.ActionAb.actionPerformed(ActionAb.java:84)
+	at serpro.ppgd.irpf.gui.comparativo.PainelComparativoAuxiliar.btnEntregarActionPerformed(PainelComparativoAuxiliar.java:279)
+	at serpro.ppgd.irpf.gui.comparativo.PainelComparativoAuxiliar$3.actionPerformed(PainelComparativoAuxiliar.java:163)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+abr 14, 2023 4:49:39 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+abr 14, 2023 4:51:05 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+abr 14, 2023 4:51:05 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+abr 14, 2023 4:51:40 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro não Tratado: java.lang.NullPointerException
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+abr 18, 2023 2:35:02 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+abr 18, 2023 2:37:00 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+abr 18, 2023 2:37:00 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+cmdDir=C:\Arquivos de Programas RFB\IRPF2023
+cmd=[C:\Arquivos de Programas RFB\IRPF2023\jre\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2023\pgd-updater.jar, -U, -W, -appName, IRPF2023, -tempDir, C:\Users\felipe\.irpf\tmp_IRPF2023, -destDir, C:\Arquivos de Programas RFB\IRPF2023, -zipFile, IRPF2023-1.2_update_1.4.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2023\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2023\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2023\IRPF2023.exe]
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+jun 19, 2023 9:00:28 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:28 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:28 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:28 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+jun 19, 2023 9:00:29 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:29 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:29 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+jun 19, 2023 9:00:29 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+jun 19, 2023 9:00:29 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+jun 19, 2023 9:02:08 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+jun 19, 2023 9:02:08 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+jun 19, 2023 9:02:30 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+jun 19, 2023 9:02:30 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+cmdDir=C:\Arquivos de Programas RFB\IRPF2023
+cmd=[C:\Arquivos de Programas RFB\IRPF2023\jre\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2023\pgd-updater.jar, -U, -W, -appName, IRPF2023, -tempDir, C:\Users\felipe\.irpf\tmp_IRPF2023, -destDir, C:\Arquivos de Programas RFB\IRPF2023, -zipFile, IRPF2023-1.4_update_1.5.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2023\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2023\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2023\IRPF2023.exe]
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+set 15, 2023 10:48:54 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+set 15, 2023 10:48:54 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+set 15, 2023 10:52:03 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+set 15, 2023 10:52:03 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+set 15, 2023 10:52:04 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+set 15, 2023 10:52:04 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+set 15, 2023 10:56:25 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+set 15, 2023 11:09:20 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+set 15, 2023 11:09:29 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+set 15, 2023 11:09:29 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+mai 24, 2024 11:30:52 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mai 24, 2024 11:34:41 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mai 24, 2024 11:34:41 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mai 24, 2024 11:35:20 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mai 24, 2024 11:35:20 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mai 24, 2024 11:35:31 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mai 24, 2024 11:35:31 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2023\jre
+Warning: Could not get charToByteConverterClass!
+mai 24, 2024 11:41:54 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mai 24, 2024 11:41:54 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.

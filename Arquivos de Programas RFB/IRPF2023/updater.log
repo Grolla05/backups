@@ -1,0 +1,154 @@
+mar 17, 2023 4:13:31 PM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [ECA, MSGS, LINKS].
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@fc56710'.
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+mar 17, 2023 4:13:31 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
+abr 14, 2023 12:06:42 PM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [LINKS, BANCO, BBENS].
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@3a923fa'.
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+abr 14, 2023 12:06:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
+abr 14, 2023 2:36:06 PM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download da versão: 1.2 (Opcional). Versão Atual: 1.1.
+abr 14, 2023 2:36:07 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@10e983e4'.
+abr 14, 2023 2:36:07 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+abr 14, 2023 2:36:07 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+abr 14, 2023 2:36:10 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+abr 14, 2023 2:36:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+abr 14, 2023 2:36:10 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+abr 14, 2023 2:36:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+abr 14, 2023 2:36:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+jun 19, 2023 8:50:46 PM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download da versão: 1.4 (Opcional). Versão Atual: 1.2.
+jun 19, 2023 8:50:46 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@7105b986'.
+jun 19, 2023 8:50:46 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+jun 19, 2023 8:50:47 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+jun 19, 2023 8:50:50 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+jun 19, 2023 8:50:50 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+jun 19, 2023 8:50:50 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+jun 19, 2023 8:50:50 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+jun 19, 2023 8:50:50 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+jun 19, 2023 8:50:57 PM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [MSGS].
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@37554001'.
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+jun 19, 2023 8:50:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
+set 15, 2023 10:48:39 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download da versão: 1.5 (Opcional). Versão Atual: 1.4.
+set 15, 2023 10:48:39 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@5375a596'.
+set 15, 2023 10:48:39 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+set 15, 2023 10:48:40 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+set 15, 2023 10:48:42 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+set 15, 2023 10:48:42 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+set 15, 2023 10:48:42 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+set 15, 2023 10:48:42 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+set 15, 2023 10:48:42 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+set 15, 2023 10:48:46 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [LINKS].
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@35daf2dd'.
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+set 15, 2023 10:48:46 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
+mai 24, 2024 9:09:09 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [LINKS, BANCO, BBENS, AJUST].
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1ddddd01'.
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\felipe\.irpf\tmp_IRPF2023'.
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+mai 24, 2024 9:09:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted

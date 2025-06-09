@@ -1,0 +1,113 @@
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+mar 19, 2025 6:17:52 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:18:49 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:18:49 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:19:03 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:19:03 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+mar 19, 2025 6:20:41 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:20:41 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:21:12 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:21:12 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+mar 19, 2025 6:33:19 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:33:19 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:35:43 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+mar 19, 2025 6:35:43 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:35:43 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+mar 19, 2025 6:35:43 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:36:34 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:36:34 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 19, 2025 6:36:42 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 19, 2025 6:36:42 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+cmdDir=C:\Arquivos de Programas RFB\IRPF2025
+cmd=[C:\Arquivos de Programas RFB\IRPF2025\jre\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2025\pgd-updater.jar, -U, -W, -appName, IRPF2025, -tempDir, C:\Users\felipe\.irpf\tmp_IRPF2025, -destDir, C:\Arquivos de Programas RFB\IRPF2025, -zipFile, IRPF2025-1.0_update_1.1.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2025\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2025\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2025\IRPF2025.exe]
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+mar 24, 2025 10:26:34 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+mar 24, 2025 10:27:31 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+mar 24, 2025 10:27:31 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.15
+JavaHome: C:\Arquivos de Programas RFB\IRPF2025\jre
+Warning: Could not get charToByteConverterClass!
+abr 04, 2025 7:54:55 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+abr 04, 2025 7:54:55 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+abr 04, 2025 7:59:21 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+abr 04, 2025 7:59:21 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+abr 04, 2025 7:59:21 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: null
+abr 04, 2025 7:59:21 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.
+abr 04, 2025 8:00:12 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+abr 04, 2025 8:00:12 PM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro deletar arquivo.

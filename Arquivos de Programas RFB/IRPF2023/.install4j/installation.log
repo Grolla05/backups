@@ -1,0 +1,704 @@
+[INFO] Logger started at 2023-03-17 16:11:16
+[INFO] Executable name: C:\Users\felipe\AppData\Local\Temp\scoped_dir6684_672258658\IRPF2023Win64v1.1.exe
+[INFO] install4j version: 10.0.4 (build 10066)
+[INFO] Properties: 
+-- listing properties --
+sun.desktop=windows
+awt.toolkit=sun.awt.windows.WToolkit
+java.specification.version=11
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+java.class.path=C:\Users\felipe\AppData\Local\Temp\e4...
+sun.awt.enableExtraMouseButtons=true
+java.vm.vendor=Eclipse Adoptium
+sun.arch.data.model=64
+install4j.exeDir=C:\Users\felipe\AppData\Local\Temp\sc...
+user.variant=
+java.vendor.url=https://adoptium.net/
+user.timezone=America/Sao_Paulo
+os.name=Windows 10
+java.vm.specification.version=11
+user.country=BR
+sun.boot.library.path=c:\users\felipe\appdata\local\temp\e4...
+sun.java.command=C:\Users\felipe\AppData\Local\Temp\sc...
+jdk.debug=release
+sun.cpu.endian=little
+user.home=C:\Users\felipe
+exe4j.unextractedPosition=54646764
+user.language=pt
+jdk.http.auth.tunneling.disabledSchemes=
+java.specification.vendor=Oracle Corporation
+java.version.date=2022-04-19
+java.home=c:\users\felipe\appdata\local\temp\e4...
+file.separator=\
+java.vm.compressedOopsMode=Zero based
+line.separator=
+
+java.specification.name=Java Platform API Specification
+java.vm.specification.vendor=Oracle Corporation
+jdk.lang.Process.allowAmbiguousCommands=false
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+exe4j.moduleName=C:\Users\felipe\AppData\Local\Temp\sc...
+exe4j.tempDir=C:\Users\felipe\AppData\Local\Temp\e4...
+user.script=
+exe4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+exe4j.isInstall4j=true
+java.runtime.version=11.0.15+10
+user.name=felipe
+path.separator=;
+install4j.defaultLanguage=pt_BR
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=Cp1252
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.version=Temurin-11.0.15+10
+exe4j.semaphoreName=Local\c:_users_felipe_appdata_local_t...
+install4j.appDir=C:\Users\felipe\AppData\Local\Temp\
+java.vendor.url.bug=https://github.com/adoptium/adoptium-...
+java.io.tmpdir=C:\Users\felipe\AppData\Local\Temp\
+java.version=11.0.15
+user.dir=C:\Users\felipe\AppData\Local\Temp\e4...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+sun.os.patch.level=
+java.library.path=c:\users\felipe\appdata\local\temp\e4...
+java.vm.info=mixed mode
+java.vendor=Eclipse Adoptium
+java.vm.version=11.0.15+10
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=55.0
+exe4j.launchName=C:\Users\felipe\AppData\Local\Temp\sc...
+[INFO] Variable changed: sys.resolveUserSpecificInstallationDir=false[class java.lang.String]
+[INFO] com.install4j.runtime.beans.actions.misc.RequestPrivilegesAction [ID 22]: Execute action
+       Property linuxPrivilegeRequirement: None
+       Property failIfNotObtainedLinux: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: true
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Property updateInstallationDirectory: true
+       Starting elevated helper
+       Using communication backend com.install4j.runtime.installer.platform.win32.Win32CommunicationBackend
+       Execute action successful after 12294 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 1]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: Show screen
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 8]: Show screen
+       checking writable with maximum
+[INFO] com.install4j.runtime.beans.actions.misc.LoadResponseFileAction [ID 11]: Execute action
+       Property excludedVariables: [sys.installationDir]
+       Property file: null
+       Property overwriteStrategy: Do not overwrite command line
+       Property registerForResponseFile: true
+       Property rollbackSupported: false
+       Response file C:\Arquivos de Programas RFB\IRPF2023\.install4j\response.varfile does not exist
+       Execute action successful after 22 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 8]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.AdditionalConfirmationsScreen [ID 78]: Show screen
+       Variable changed: createDesktopLinkAction=true[class java.lang.Boolean]
+[INFO] com.install4j.runtime.beans.screens.AdditionalConfirmationsScreen [ID 78]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 15]: Show screen
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction [ID 17]: Execute action
+       Property directoryResolverScript: null
+       Property fileFilterScript: null
+       Property sizeCalculatorScript: null
+       Property acceptAllCertificates: false
+       Property checkFreeSpace: true
+       Property delay: false
+       Property installRuntime: true
+       Property rollbackSupported: true
+       Property saveDownloadedFiles: false
+       Property showFileNames: true
+       Property triggerReboot: true
+       Property validateApplicationId: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-console-l1-1-0.dll; size: 12496 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:06 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-datetime-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-debug-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-errorhandling-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-file-l1-1-0.dll; size: 15568 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-file-l1-2-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-file-l2-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-handle-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-heap-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-interlocked-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-libraryloader-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-localization-l1-2-0.dll; size: 14544 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-memory-l1-1-0.dll; size: 12496 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:07 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-namedpipe-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-processenvironment-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-processthreads-l1-1-0.dll; size: 14032 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-processthreads-l1-1-1.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-profile-l1-1-0.dll; size: 11472 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-rtlsupport-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-string-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-synch-l1-1-0.dll; size: 14032 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-synch-l1-2-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-sysinfo-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-timezone-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-core-util-l1-1-0.dll; size: 11984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-conio-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-convert-l1-1-0.dll; size: 16080 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-environment-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-filesystem-l1-1-0.dll; size: 14032 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-heap-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-locale-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-math-l1-1-0.dll; size: 21200 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-multibyte-l1-1-0.dll; size: 20176 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-private-l1-1-0.dll; size: 64720 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-process-l1-1-0.dll; size: 13008 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-runtime-l1-1-0.dll; size: 16592 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-stdio-l1-1-0.dll; size: 18128 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-string-l1-1-0.dll; size: 18128 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-time-l1-1-0.dll; size: 14544 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\api-ms-win-crt-utility-l1-1-0.dll; size: 12496 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\attach.dll; size: 27344 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\awt.dll; size: 1522896 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\client\jvm.dll; size: 6951632 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\dt_socket.dll; size: 31952 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\fontmanager.dll; size: 658128 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\freetype.dll; size: 540880 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\instrument.dll; size: 49360 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\j2gss.dll; size: 48848 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\j2pcsc.dll; size: 24272 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\j2pkcs11.dll; size: 75984 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jaas.dll; size: 25808 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jabswitch.exe; size: 43216 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:08 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jaccessinspector.exe; size: 105680 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jaccesswalker.exe; size: 68816 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jaotc.exe; size: 23248 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\java.dll; size: 154832 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\java.exe; size: 47824 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\javaaccessbridge.dll; size: 155856 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\javajpeg.dll; size: 174800 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\javaw.exe; size: 47824 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jawt.dll; size: 19152 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jdwp.dll; size: 216784 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jfr.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jimage.dll; size: 31952 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jjs.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jli.dll; size: 85200 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jrunscript.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\jsound.dll; size: 59600 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\keytool.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\kinit.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\klist.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\ktab.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\lcms.dll; size: 253136 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\le.dll; size: 33488 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\management.dll; size: 27344 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\management_agent.dll; size: 22224 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\management_ext.dll; size: 34000 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:09 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\mlib_image.dll; size: 507600 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\msvcp140.dll; size: 620240 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\net.dll; size: 93392 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\nio.dll; size: 65232 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\pack200.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\prefs.dll; size: 23760 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\rmi.dll; size: 19152 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\rmid.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\rmiregistry.exe; size: 21712 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\server\jvm.dll; size: 11765456 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\splashscreen.dll; size: 216272 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\sspi_bridge.dll; size: 42704 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\sunec.dll; size: 148176 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\sunmscapi.dll; size: 45264 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\ucrtbase.dll; size: 1009872 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\unpack.dll; size: 86736 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\unpack200.exe; size: 137936 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\vcruntime140.dll; size: 78032 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\verify.dll; size: 53968 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\w2k_lsa_auth.dll; size: 29904 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\windowsaccessbridge-64.dll; size: 191696 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\bin\zip.dll; size: 84688 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\logging.properties; size: 2731 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\management\jmxremote.access; size: 3997 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\management\jmxremote.password.template; size: 5690 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\management\management.properties; size: 14292 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\net.properties; size: 6373 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\java.policy; size: 2180 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\java.security; size: 58795 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\limited\default_local.policy; size: 647 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\limited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\limited\exempt_local.policy; size: 566 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\README.txt; size: 2390 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\unlimited\default_local.policy; size: 193 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\security\policy\unlimited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\conf\sound.properties; size: 1210 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\classfile_constants.h; size: 21906 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\jawt.h; size: 12458 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\jdwpTransport.h; size: 8151 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\jni.h; size: 74987 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\jvmti.h; size: 84415 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\jvmticmlr.h; size: 4771 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\win32\bridge\AccessBridgeCallbacks.h; size: 5518 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\win32\bridge\AccessBridgeCalls.h; size: 36093 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\win32\bridge\AccessBridgePackages.h; size: 77582 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\win32\jawt_md.h; size: 1895 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\include\win32\jni_md.h; size: 1553 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\ADDITIONAL_LICENSE_INFO; size: 2114 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\aes.md; size: 1444 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\asm.md; size: 1582 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\ASSEMBLY_EXCEPTION; size: 1522 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\c-libutl.md; size: 1556 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\cldr.md; size: 2926 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\icu.md; size: 2930 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\LICENSE; size: 19274 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\public_suffix.md; size: 17785 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\unicode.md; size: 2957 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.base\zlib.md; size: 1011 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.compiler\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.compiler\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.compiler\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.datatransfer\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.datatransfer\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.datatransfer\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\colorimaging.md; size: 167 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\freetype.md; size: 28780 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\giflib.md; size: 1288 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\harfbuzz.md; size: 2753 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\jpeg.md; size: 3997 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\lcms.md; size: 1178 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\libpng.md; size: 5398 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.desktop\mesa3d.md; size: 5732 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.instrument\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.instrument\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.instrument\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.logging\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.logging\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.logging\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.management.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.naming\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.naming\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.naming\LICENSE; size: 33 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:10 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.net.http\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.net.http\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.net.http\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.prefs\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.prefs\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.prefs\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.scripting\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.scripting\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.scripting\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.se\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.se\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.se\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.jgss\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.jgss\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.jgss\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.sasl\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.sasl\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.security.sasl\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.smartcardio\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.smartcardio\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.smartcardio\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql.rowset\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql.rowset\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.sql.rowset\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.transaction.xa\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.transaction.xa\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.transaction.xa\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\bcel.md; size: 11503 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\dom.md; size: 3028 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\jcup.md; size: 1158 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\xalan.md; size: 13494 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml\xerces.md; size: 11852 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml.crypto\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml.crypto\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml.crypto\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\java.xml.crypto\santuario.md; size: 11436 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.accessibility\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.accessibility\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.accessibility\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.aot\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.aot\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.aot\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.attach\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.attach\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.attach\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.charsets\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.charsets\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.charsets\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.cryptoki\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.cryptoki\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.cryptoki\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.cryptoki\pkcs11cryptotoken.md; size: 3923 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.cryptoki\pkcs11wrapper.md; size: 2131 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.ec\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.ec\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:11 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.ec\ecc.md; size: 29220 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.ec\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.mscapi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.mscapi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.crypto.mscapi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.dynalink\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.dynalink\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.dynalink\dynalink.md; size: 1502 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.dynalink\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.httpserver\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.httpserver\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.httpserver\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.ed\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.ed\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.ed\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.jvmstat\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.jvmstat\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.jvmstat\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.le\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.le\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.le\jline.md; size: 1579 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.le\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.ci\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.ci\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.ci\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.internal.vm.compiler.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jdwp.agent\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jdwp.agent\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jdwp.agent\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jfr\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jfr\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jfr\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jsobject\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jsobject\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.jsobject\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.localedata\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.localedata\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.localedata\cldr.md; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.localedata\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.localedata\thaidict.md; size: 1346 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.agent\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.agent\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.agent\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.jfr\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.jfr\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.management.jfr\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.dns\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.dns\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.dns\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.naming.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.net\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.net\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.net\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.pack\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.pack\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.pack\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn\double-conversion.md; size: 1641 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn\joni.md; size: 1108 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn.shell\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn.shell\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.scripting.nashorn.shell\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.sctp\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.sctp\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.sctp\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.auth\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.auth\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.auth\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.jgss\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.jgss\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.security.jgss\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported\LICENSE; size: 33 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:12 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported.desktop\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:11 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported.desktop\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.unsupported.desktop\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.xml.dom\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:12 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.xml.dom\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.xml.dom\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.zipfs\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.zipfs\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\legal\jdk.zipfs\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\classlist; size: 39377 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\client\Xusage.txt; size: 1322 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\fontconfig.bfc; size: 4630 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\fontconfig.properties.src; size: 12345 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jawt.lib; size: 1682 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jfr\default.jfc; size: 30451 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jfr\profile.jfc; size: 30409 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jrt-fs.jar; size: 106685 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jvm.cfg; size: 28 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\jvm.lib; size: 1017808 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\modules; size: 116100956 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\psfont.properties.ja; size: 3793 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\psfontj2d.properties; size: 11390 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:13 BRT 2023, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\security\blocked.certs; size: 2527 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\security\cacerts; size: 158320 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\security\default.policy; size: 10319 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\security\public_suffix_list.dat; size: 234478 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\server\Xusage.txt; size: 1322 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\tzdb.dat; size: 106905 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\lib\tzmappings; size: 9577 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\jre\release; size: 922 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\desinstalador.exe; size: 781864 bytes; exists: false
+       File options set to: [fileTime: Thu Mar 16 18:30:48 BRT 2023, mode: 777, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\config.bat; size: 114 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\IRPF2023.exe; size: 109608 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\exec.bat; size: 20 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4jdel.exe; size: 95936 bytes; exists: false
+       File options set to: [fileTime: Thu Mar 16 18:30:48 BRT 2023, mode: 777, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4jinst.dll; size: 232128 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\IRPF.acb; size: 42825 bytes; exists: false
+       File options set to: [fileTime: Thu Mar 16 18:30:48 BRT 2023, mode: 777, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\Leia-me.htm; size: 2533 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\help\AjudaIRPF.pdf; size: 1803064 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\help\AtalhosIRPF.pdf; size: 92556 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\irpf.jar; size: 3032177 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-atividade-rural.jar; size: 123583 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-basica.jar; size: 1350609 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-carne-leao.jar; size: 126233 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-declaracao.jar; size: 671513 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-gcap.jar; size: 627213 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_gui-renda-variavel.jar; size: 59996 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_icones.jar; size: 2914790 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_importacao-exportacao.jar; size: 295588 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_impressao.jar; size: 33139 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_negocio-calculo.jar; size: 65393 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_negocio-declaracao.jar; size: 1408296 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib-modulos\irpf_servicos-nuvem.jar; size: 35855 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\balloontip-1.2.4.jar; size: 63640 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-awt-util.jar; size: 403287 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-dom.jar; size: 173750 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-svg-dom.jar; size: 603361 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-svggen.jar; size: 215802 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-util.jar; size: 128334 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\batik-xml.jar; size: 30862 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\bcmail-jdk15on-1.49.jar; size: 95696 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\bcpkix-jdk15on-1.49.jar; size: 629662 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\bcprov-jdk15on-1.49.jar; size: 2476362 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\chardet.jar; size: 26568 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-beanutils-1.9.3.jar; size: 246174 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-codec-1.11.jar; size: 335042 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-collections-3.2.1.jar; size: 575389 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-digester-1.8.jar; size: 143602 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-io-2.4.jar; size: 185140 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-lang-2.6.jar; size: 284220 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\commons-logging-1.2.jar; size: 61829 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\core-3.3.0.jar; size: 541078 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\exificient-0.9.6.jar; size: 65862 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\exificient-core-0.9.6.jar; size: 296016 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\exificient-grammars-0.9.6.jar; size: 65070 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\fluent-hc-4.5.9.jar; size: 31544 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\forms-1.0.3.jar; size: 86902 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\foxtrot.jar; size: 36038 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\freesans.jar; size: 977353 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\groovy-3.0.4.jar; size: 7930517 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\groovyconverter.jar; size: 40612 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\gson-2.3.jar; size: 206853 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\iText-2.1.0.jar; size: 1050691 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\icepdf-core.jar; size: 1438773 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\icepdf-viewer.jar; size: 910460 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jai-imageio-core-1.3.1.jar; size: 602022 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jasperreports-5.6.0.jar; size: 4989676 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\javase-3.3.0.jar; size: 41451 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jaxb-api-2.3.0.jar; size: 125632 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jcommander-1.48.jar; size: 63504 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jna-4.5.2.jar; size: 1484022 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jna-platform-4.5.2.jar; size: 2327597 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\jsignnet-3.5.1.jar; size: 164060 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\maven-artifact-3.8.4.jar; size: 58076 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\midas-layouts-2.0.jar; size: 3546070 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-formatosext-4.3.1.jar; size: 124467 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-gui-beans-4.3.1.jar; size: 620770 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-icones-4.0.jar; size: 58080 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-infraestrutura-4.3.1.jar; size: 2999347 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-negocio-4.3.1.jar; size: 181214 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-persistencia-4.3.1.jar; size: 65159 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\ppgd-pgd-utils-4.3.1.jar; size: 23788 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\qrcodeutil-0.0.1.jar; size: 5160 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\receitanet.dat; size: 42 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\receitanet.jar; size: 485095 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\recnet-envelope-1.2.jar; size: 37903 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\recnetutil-1.1.jar; size: 28243 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\aliquotas.xml; size: 13894 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\bancos.xml; size: 2683 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\bancos_bens.xml; size: 37163 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\datasIrpf.xml; size: 764 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\dependencias.xml; size: 2344 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\eca.xml; size: 231547 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\eidoso.xml; size: 96789 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\links.xml; size: 19590 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\mensagens.xml; size: 5437 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\naturezasOcupacao.xml; size: 3561 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\ocupacoesPrincipal.xml; size: 17788 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\paises.xml; size: 14971 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoBens.xml; size: 8638 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoConta.xml; size: 338 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoDividas.xml; size: 754 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoPagamentos.xml; size: 4297 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoRendIsento.xml; size: 6468 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoRendTributExclusiva.xml; size: 534 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\resources\tipoRendimentos.xml; size: 9863 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\serpro.jar; size: 48202 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\slf4j-api-1.7.25.jar; size: 41203 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\slf4j-nop-1.7.25.jar; size: 4007 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\sqladaj-2.0.1.jar; size: 22579 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\swing-layout-1.0.4.jar; size: 117412 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\swingx-1.6.jar; size: 1290685 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\tinylaf-1.4.0.jar; size: 681180 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\tokens-linux.config; size: 1388 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\tokens-mac.config; size: 413 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\tokens-windows.config; size: 1666 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\xalan.jar; size: 1781922 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\xercesImpl-2.11.0.jar; size: 1367760 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\xml-apis-1.4.01.jar; size: 220536 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\xmladaj.jar; size: 44851 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\lib\xslconverter.jar; size: 9180 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\offline.png; size: 4107 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\online.png; size: 3945 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\pgd-updater.jar; size: 64223 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\uninstall.exe; size: 800256 bytes; exists: false
+       File options set to: [fileTime: Thu Mar 16 18:30:48 BRT 2023, mode: 700, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\inst_jre.cfg; size: 66 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\pref_jre.cfg; size: 43 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4jruntime.jar; size: 2107614 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\MessagesDefault; size: 34826 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4jparams.conf; size: 76714 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\stats.properties; size: 952 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\user.jar; size: 11870 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\user\flatlaf.jar; size: 758100 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_0_n2ltjz.utf8; size: 37661 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_1_n2ltjz.properties; size: 2886 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_2_n2ltjz_1szrbe2.png; size: 1787 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_3_n2ltjz_18gg8kx.png; size: 9202 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_3_n2ltjz_18gg8kx@2x.png; size: 15419 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_3_n2ltjz_18gg8kx@2x_dark.png; size: 15837 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_3_n2ltjz_18gg8kx_dark.png; size: 8891 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\i4j_extf_4_n2ltjz_i8j0v2.png; size: 20188 bytes; exists: false
+       Install file: C:\Arquivos de Programas RFB\IRPF2023\.install4j\installer.ico; size: 10134 bytes; exists: false
+       Execute action successful after 8108 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction [ID 18]: Execute action
+       Property categories: Application
+       Property linkDirectory: Programas RFB2023
+       Property programGroupEntryConfigs: []
+       Property programGroupName: Programas RFB2023
+       Property uninstallerMenuName: IRPF 2023 - Declaração de Ajuste Anual Desinstalador
+       Property addDefaultLauncherLinks: true
+       Property addUninstaller: false
+       Property allUsers: true
+       Property failForSymlinksNotCreated: false
+       Property rollbackSupported: true
+       Property unixMenuEntries: true
+       Property unixSymlinks: true
+       Variable changed: sys.programGroupName=IRPF 2023 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País[class java.lang.String]
+       Variable changed: sys.symlinkDir=/usr/local/bin[class java.lang.String]
+       Install file: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Programas RFB2023\IRPF 2023 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País.lnk; size: 1806 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Programas RFB2023\Ajuda do IRPF 2023.lnk; size: 1024 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Programas RFB2023\Leia-me do IRPF 2023.lnk; size: 909 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:54 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 253 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction [ID 19]: Execute action
+       Property icon: null
+       Property iconSource: Installer icon
+       Property itemName: IRPF 2023 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País 
+       Property persistentProperties: {}
+       Property rollbackSupported: true
+       Execute action successful after 45 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateDesktopLinkAction [ID 77]: Execute action
+       Property additionalDesktopFileEntries: 
+       Property arguments: 
+       Property description: 
+       Property file: IRPF2023
+       Property name: IRPF2023
+       Property startIn: null
+       Property unixIconFile: i4j_extf_2_n2ltjz_1szrbe2.png
+       Property winIconFile: null
+       Property allUsers: false
+       Property macSingleBundleTarget: true
+       Property rollbackSupported: true
+       Property runAsAdministrator: false
+       Install file: C:\Users\felipe\Desktop\IRPF2023.lnk; size: 1806 bytes; exists: false
+       File options set to: [fileTime: Fri Mar 17 16:11:55 BRT 2023, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 79 ms
+[INFO] com.install4j.runtime.beans.actions.misc.RunExecutableAction [ID 140]: Execute action
+       Property arguments: [logging of arguments is disabled]
+       Property environmentVariables: {}
+       Property executable: config.bat
+       Property returnCodeVariable: 
+       Property rollbackArguments: null
+       Property rollbackExecutable: null
+       Property rollbackWorkingDirectory: null
+       Property stderrFile: null
+       Property stderrRedirectionMode: No redirection
+       Property stderrVariableName: 
+       Property stdinFile: null
+       Property stdinRedirectionMode: No redirection
+       Property stdinString: 
+       Property stdoutFile: null
+       Property stdoutRedirectionMode: No redirection
+       Property stdoutVariableName: 
+       Property timeout: 0
+       Property workingDirectory: .
+       Property failOnStderrFileError: false
+       Property failOnStdinFileError: false
+       Property failOnStdoutFileError: false
+       Property includeParentEnvironmentVariables: true
+       Property keepConsoleWindow: true
+       Property logArguments: false
+       Property rollbackSupported: false
+       Property showWindowsConsole: false
+       Property updateStderrVariableLines: false
+       Property updateStdoutVariableLines: false
+       Property useRollbackExecutable: false
+       Property wait: true
+       Property waitForStreams: true
+       used working dir: C:\Arquivos de Programas RFB\IRPF2023\.
+       execute using batch file
+       return value is 1
+[ERROR] com.install4j.runtime.beans.actions.misc.RunExecutableAction [ID 140]: return value is 1
+        Execute action not successful after 631 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 15]: Rollback barrier reached
+       command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 20]: Show screen
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 20]: command: finish
+       cleaning up
+       Finished at 2023-03-17 16:12:20

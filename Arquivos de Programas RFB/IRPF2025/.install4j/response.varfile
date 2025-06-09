@@ -1,0 +1,5 @@
+# install4j response file for IRPF 2025 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País 1.0
+createDesktopLinkAction$Boolean=true
+sys.adminRights$Boolean=true
+sys.installationDir=C\:\\Arquivos de Programas RFB\\IRPF2025
+sys.languageId=pt_BR
