@@ -1,0 +1,40 @@
+Oct 14, 2021 11:15:18 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [ECA, BANCO, BBENS, DIVID].
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@179b3e0'.
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\fegro\.irpf\tmp_IRPF2021'.
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+Oct 14, 2021 11:15:18 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
+Oct 14, 2021 11:54:35 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [DIVID].
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1a46319'.
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\fegro\.irpf\tmp_IRPF2021'.
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+Oct 14, 2021 11:54:35 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted
